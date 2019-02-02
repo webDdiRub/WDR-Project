@@ -1,0 +1,51 @@
+<!doctype html>
+<html>
+<head>
+  <title>WDR - schedule</title>
+  <meta charset="utf-8">
+  <style>
+    table{
+      width: 60%;
+    }
+    th{
+      width: 10%
+    }
+    th, td{
+      border: 1px solid gray;
+    }
+  </style>
+</head>
+<body>
+  <h1>~ n월 n째주 ~</h1>
+<table>
+  <tr>
+    <th>일</th>
+    <td>내용</td>
+  </tr>
+  <tr>
+    <th>월</th>
+    <td>내용</td>
+  </tr>
+  <tr>
+    <th>화</th>
+    <td>내용</td>
+  </tr>
+  <tr>
+    <th>수</th>
+    <td>내용</td>
+  </tr>
+  <tr>
+    <th>목</th>
+    <td>내용</td>
+  </tr>
+  <tr>
+    <th>금</th>
+    <td>내용</td>
+  </tr>
+  <tr>
+    <th>토</th>
+    <td>내용</td>
+  </tr>
+</table>
+</body>
+</html>
