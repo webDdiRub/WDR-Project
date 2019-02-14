@@ -1,0 +1,45 @@
+body{
+    background-color:#E9F1F2;
+    margin:40px;
+    font-family: "210 청춘시대";
+}
+a{
+    text-decoration: none;
+    color:black;
+}
+.login{
+    padding-left:90%;
+}
+.garo{
+    display :grid;
+    grid-template-columns:200px 1fr;
+}
+.sero{
+    display:grid;
+    grid-template-columns:200px 1fr;
+}
+.small_index{
+    margin-top: 50px;
+}
+article{
+    margin-top: 50px;
+    padding-top: 20px;
+    padding-left:30px;
+    -moz-box-shadow: -5px -5px 5px #888;
+    -webkit-box-shadow: -5px -5px 5px #888;
+    box-shadow: -5px 5px 5px #888;
+}
+.index{
+    background-color: #BDC8D3;
+    margin-left: 20px;
+    padding-top: 7px;
+    padding-left: 30px;
+}
+footer{
+    background-color: #9D65A4;
+    margin-top: 300px;
+    padding-top: 100px;
+    padding-left: 50px;
+    padding-bottom: 100px;
+    
+}
